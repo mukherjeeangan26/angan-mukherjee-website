@@ -37,6 +37,16 @@ img {
   max-width: 100%;
 }
 
+.blue-link {
+  color: #0066cc;
+  font-weight: 800;
+}
+
+.blue-link:hover {
+  color: #004a99;
+  text-decoration: underline;
+}
+
 .site-header {
   position: sticky;
   top: 0;
